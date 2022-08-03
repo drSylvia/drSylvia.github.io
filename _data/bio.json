@@ -1,0 +1,155 @@
+{
+  "basics": {
+    "name": "Sylvia CHEN",
+    "label": "Student",
+    "picture": "https://sylviachen1.github.io/images/sc_photo.jpeg",
+    "email": "sylvia.chen@uon.edu.au",
+    "phone": "0469898854",
+    "website": "https://sylviachen1.github.io",
+    "summary": "I am studying for a PhD in computer Science at the University of Newcastle. I expect to graduate in Winter, 2022, and plan to find work as a Data Scientist.",
+    "location": {
+      "address": "",
+      "postalCode": "2304",
+      "city": "Newcastle",
+      "countryCode": "AU",
+      "region": "NSW"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "sylviachen1",
+        "url": "http://github.com/sylviachen1"
+      },
+      {
+        "network": "linkedin",
+        "username": "Shuo CHEN",
+        "url": "https://www.linkedin.com/in/shuo-sylvia-chen/"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Operation research",
+      "keywords": [
+        "Graphic Design",
+        "Videography"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Lot-sizing and scheduling",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "CSV"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2021)",
+      "studyType": "B.S.",
+      "startDate": "2017-08-19",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "DataHouse",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2020-08-24",
+      "endDate": "Present",
+      "highlights": [
+        "Quality assurance support on LumiSight apps",
+        "Assisting on COVID-related projects",
+        "Interned from January to August 2020"
+      ]
+    },
+    {
+      "company": "UH Manoa Admissions Office",
+      "position": "Social Media Coordinator",
+      "website": "https://manoa.hawaii.edu/admissions/",
+      "startDate": "2018-09-01",
+      "endDate": "2020-01-15",
+      "summary": "Ran the instagram and facebook accounts for the admissions office. I also created the informational and promotional videos for incoming freshman",
+      "highlights": [
+        "Filmed events",
+        "Answer questions sent in by potential students"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Eta Kappa Nu (HKN)",
+      "website": "https://hknhawaii.weebly.com/",
+      "position": "President",
+      "startDate": "2020-05-15",
+      "endDate": "Present",
+      "highlights": [
+        "Support events hosted by the CoE",
+        "Professional development",
+        "Establish relationships among peers, fellow members, and professionals"
+      ]
+    },
+    {
+      "organization": "IEEE",
+      "position": "Secretary",
+      "startDate": "2020-05-20",
+      "endDate": "Present",
+      "highlights": [
+        "Organize events for members",
+        "Plan and coordinate workshops"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Regents Scholarship",
+      "date": "2017-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to incoming freshmen who completed a rigorous high school curriculum and demonstrated leadership qualities."
+    },
+    {
+      "title": "Harriet Bouslog Scholarship",
+      "date": "2018-Present",
+      "awarder": "ILWU Local 142",
+      "summary": "A renewable scholarship given to UH students who have had a family member in the ILWU."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
