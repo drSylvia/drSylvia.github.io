@@ -5,9 +5,9 @@ title: Sylvia joined the HVCCC team in December 2022
 # All dates must be YYYY-MM-DD format!
 date: 2023-06-10
 labels:
-  - PhD
   - Newcastle
-  - News
+  - Work
+  - HVCCC
 ---
 
 # Joined the Hunter Valley Coal Chain Coordinator (HVCCC) team in Dec 2022
@@ -38,7 +38,8 @@ It’s fantastic to have the opportunity to visit members’ mine sites in the G
 #customerservice #learningonthejob #teamwork
 www.hvccc.com.au
 <img class="ui large centered image" src="../images\1\2023HVCCC\02event2_2023-07-02_03-39-39.jpg">
-https://www.linkedin.com/posts/hunter-valley-coal-chain-coordinator_customerservice-learningonthejob-teamwork-activity-7058997976727224320-3_6G?utm_source=share&utm_medium=member_desktop
+
+[https://www.linkedin.com/posts/hunter-valley-coal-chain-coordinator_customerservice-learningonthejob-teamwork-activity-7058997976727224320-3_6G?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/hunter-valley-coal-chain-coordinator_customerservice-learningonthejob-teamwork-activity-7058997976727224320-3_6G?utm_source=share&utm_medium=member_desktop)
 
 
 # Raising funds for Variety - the Children's Charity NSW/ACT
@@ -50,7 +51,8 @@ This is another way of the HVCCC team contributing to our charity partners and h
  
 #spinforkids #charitablepartners #fitnessfun
 <img class="ui large centered image" src="../images\1\2023HVCCC\02event3_2023-07-02_03-39-39.jpg">
-https://www.linkedin.com/posts/hunter-valley-coal-chain-coordinator_spinforkids-charitablepartners-fitnessfun-activity-7046263641737744384--xEd?utm_source=share&utm_medium=member_desktop
+
+[https://www.linkedin.com/posts/hunter-valley-coal-chain-coordinator_spinforkids-charitablepartners-fitnessfun-activity-7046263641737744384--xEd?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/hunter-valley-coal-chain-coordinator_spinforkids-charitablepartners-fitnessfun-activity-7046263641737744384--xEd?utm_source=share&utm_medium=member_desktop)
 
 # Visit members’ mine sites in the Gunnedah Basin
 The HVCCC team is delighted to be at the University of Newcastle Science, Technology and Maths Employment Expo, meeting some amazingly talented students.

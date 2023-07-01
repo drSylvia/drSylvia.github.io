@@ -20,7 +20,7 @@ The interview focused on the topic of "How Sylvia Chen beat the odds to get a ST
 
 <img class="ui large centered image" src="../images\1\2022_Newcastle_Herald\title1_2022-12-10_23-25-48.jpg">
 
-Source: https://www.newcastleherald.com.au/story/8012446/newcastles-chinese-superwoman-beats-the-odds/
+[Source](https://www.newcastleherald.com.au/story/8012446/newcastles-chinese-superwoman-beats-the-odds/)
 
 
 **Page link to relevant reports**

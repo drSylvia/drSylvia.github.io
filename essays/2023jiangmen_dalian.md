@@ -20,12 +20,12 @@ High-level Talent Certificate, Jiangmen Municipal Bureau of Human Resources and 
 Talent Publicity in Chinese
 <img class="ui large centered image" src="../images\1\2023jiangmen\jiangmen2_2023-07-02_02-51-03.jpg">
 
-Source: http://www.jianghai.gov.cn/bwbj/rlzyhshbzj/gggs/content/post_2853200.html
+Source: [http://www.jianghai.gov.cn/bwbj/rlzyhshbzj/gggs/content/post_2853200.html](http://www.jianghai.gov.cn/bwbj/rlzyhshbzj/gggs/content/post_2853200.html)
 
 
 Google translation version:
 
-https://www-jianghai-gov-cn.translate.goog/bwbj/rlzyhshbzj/gggs/content/post_2853200.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=wapp
+[https://www-jianghai-gov-cn.translate.goog/bwbj/rlzyhshbzj/gggs/content/post_2853200.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=wapp](https://www-jianghai-gov-cn.translate.goog/bwbj/rlzyhshbzj/gggs/content/post_2853200.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=wapp)
 
 
 # Dalian High-level Talent
@@ -34,7 +34,7 @@ During her doctoral studies, Shuo CHEN utilized AI algorithms to assist a refrig
 High-level Talent Certificate, Dalian Municipal Bureau of Human Resources and Social Security, China
 
 Talent Publicity in Chinese
+[https://www.dljp.gov.cn/dt/001001/20230228/535e0070-d339-4ea4-b145-c6e49253cd13.html](https://www.dljp.gov.cn/dt/001001/20230228/535e0070-d339-4ea4-b145-c6e49253cd13.html) 
 
-https://www.dljp.gov.cn/dt/001001/20230228/535e0070-d339-4ea4-b145-c6e49253cd13.html
 
 (Please download the attachment from the government website mentioned above and check for the name of Shuo CHEN)
