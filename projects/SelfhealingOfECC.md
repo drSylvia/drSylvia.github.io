@@ -13,8 +13,12 @@ labels:
 summary: An application of applying machine learning methods to the field of civil engineering
 ---
 
+
+
 ## Project Goals
 Engineered cementitious composite (ECC) is a unique material, which can significantly contribute to self-healing based on ongoing hydration. However, it is difficult to model and predict the self-healing performance of ECC. Although different machine learning (ML) algorithms have been utilized to predict several properties of concrete, the application of ML on self-healing prediction is considerably rare. 
+
+<img class="ui large centered image" src="../images/1/selfhealing-concrete.jpg">
 
 ## Development
 This project aims to provide a comparative analysis on the performance of various machine learning models in predicting the self-healing capability of ECC. These models include four individual methods, linear regression (LR), back-propagation neural network (BPNN), classification and regression tree (CART), and support vector regression (SVR). To improve prediction accuracy, three ensemble methods, namely bagging, AdaBoost, and stacking, were also studied. A series of experimental works on the self-healing performance of ECC samples was conducted, and the results were used to develop and compare the accuracy among the ML models. The comparison results showed that the Stack_LR model had the best predictive performance, showing the highest coefficient of determination (R2), the lowest root-mean-squared error (RMSE), and the smallest prediction error (MAE). 
