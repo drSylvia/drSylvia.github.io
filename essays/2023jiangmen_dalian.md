@@ -3,11 +3,10 @@ layout: essay
 type: essay
 title: Doctoral Research Algorithm Selected for City-Level High-Level Talent Program
 # All dates must be YYYY-MM-DD format!
-date: 2023-06-10
+date: 2022-11-10
 labels:
   - PhD
-  - Newcastle
-  - News
+  - Award
 ---
 
 Dr. Shuo Chen's exceptional research algorithm achievements during her PhD studies, as well as their innovative applications in industry, led to her recognition as a high-level talent by both [Jiangmen City](https://en.wikipedia.org/wiki/Jiangmen) and [Dalian City](https://en.wikipedia.org/wiki/Dalian). Being selected for these prestigious talent programs is a testament to her exceptional abilities and expertise in her field.
