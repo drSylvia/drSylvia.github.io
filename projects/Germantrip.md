@@ -10,7 +10,7 @@ labels:
   - Operations Research
   - Lot-sizing and Scheduling
   - Industry 4.0
-summary: My partner and I developed a game using C++ as a final project for our EE 205 class.
+summary: I was invited to EWI 2018 - Presentation - Mathematical models for lot-sizing and scheduling problems considering perishability
 ---
 <img class="ui large centered image" src="../images/1/germantrip1.JPG">
 

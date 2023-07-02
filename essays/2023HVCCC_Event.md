@@ -54,7 +54,7 @@ This is another way of the HVCCC team contributing to our charity partners and h
 
 [https://www.linkedin.com/posts/hunter-valley-coal-chain-coordinator_spinforkids-charitablepartners-fitnessfun-activity-7046263641737744384--xEd?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/hunter-valley-coal-chain-coordinator_spinforkids-charitablepartners-fitnessfun-activity-7046263641737744384--xEd?utm_source=share&utm_medium=member_desktop)
 
-# Visit members’ mine sites in the Gunnedah Basin
+# The University of Newcastle Science, Technology and Maths Employment Expo
 The HVCCC team is delighted to be at the University of Newcastle Science, Technology and Maths Employment Expo, meeting some amazingly talented students.
 Watch this space for future diverse careers in STEM.
 
